@@ -1,0 +1,8 @@
+{
+    "CONF_THRESHOLD": 0.25,
+    "FOOT_OFFSET_Y": 210,
+    "offset_x": 0,
+    "offset_y": 10,
+    "imgsz": 640,
+    "inference_interval": 2
+}
