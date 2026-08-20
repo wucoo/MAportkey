@@ -3,8 +3,10 @@ MAportkey
 基于 Python 3.12 开发，核心文件：./bin/ocrtk.py
 
 ocrtk.py使用介绍：
+
   半自动辅助阿瓦达闪现射击（运行后，手动放阿瓦达，按 F 自动闪到最佳位置。）
-下好Python 3.12，再根据requiments.txt下载库，用python ocrtk.py运行即可。
+
+下好Python 3.12，再根据requiments.txt下载库（预计7个G），用python ocrtk.py运行即可。
 
 **F	核心功能：自动闪现**
 
